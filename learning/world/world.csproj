@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SharpNeatDomains">
+      <HintPath>..\sharpneat\SharpNeatDomains.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpNeatLib">
+      <HintPath>..\sharpneat\SharpNeatLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

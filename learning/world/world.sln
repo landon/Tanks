@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "world", "world.csproj", "{83AE1562-21AF-4E5F-AE1C-A49BF84071D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpNeatLib", "..\sharpneat\src\SharpNeatLib\SharpNeatLib.csproj", "{6244D0B2-B037-445E-A47B-83677D6E6D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AE1562-21AF-4E5F-AE1C-A49BF84071D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AE1562-21AF-4E5F-AE1C-A49BF84071D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AE1562-21AF-4E5F-AE1C-A49BF84071D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AE1562-21AF-4E5F-AE1C-A49BF84071D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6244D0B2-B037-445E-A47B-83677D6E6D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6244D0B2-B037-445E-A47B-83677D6E6D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6244D0B2-B037-445E-A47B-83677D6E6D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6244D0B2-B037-445E-A47B-83677D6E6D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C72DE1-0231-493A-96A7-70DDC8A44C6B}
+	EndGlobalSection
+EndGlobal
